@@ -418,6 +418,11 @@ function App() {
           </div>
         </div>
       )}
+      <footer className="footer">
+        <p>
+          Developed by <strong>Ramim</strong> · All rights reserved © 2026
+        </p>
+      </footer>
     </main>
   );
 }
